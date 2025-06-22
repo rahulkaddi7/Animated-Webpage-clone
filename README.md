@@ -1,6 +1,4 @@
-# 💠 CYBERFICTION – Interactive Scroll Animation Experience
-
-[LINK](https://animated-webpage.onrender.com)
+# 💠 CYBERFICTION – Interactive Scroll Animation Experience:  [LINK](https://animated-webpage.onrender.com)
 
 ---
 
