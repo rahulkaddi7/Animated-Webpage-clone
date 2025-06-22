@@ -23,21 +23,6 @@ This project uses:
 
 ---
 
-## 📂 File Structure
-
-```
-/images/
-  male0001.png
-  ...
-  male0300.png
-index.html
-style.css
-script.js
-README.md
-```
-
----
-
 ## 🔧 Technologies Used
 
 - [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/)
